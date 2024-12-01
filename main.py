@@ -18,6 +18,7 @@ dictionary_of_extension = {
 # Declaring a global variable
 browsed = False
 
+# Here we are writing the class file Organizer
 
 class File_Organizer:
     def __init__(self, root):
