@@ -4,7 +4,7 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox
 
-# You can add more extensions to this dictionary
+# Here we Describe the directories and extensions also You can add more extensions to this dictionary
 dictionary_of_extension = {
     'Documents': ('.pdf', '.doc', '.xls', 'txt', '.csv', '.zip', '.xml',
                   '.zip', '.docx', '.DOCX', '.odt'),
